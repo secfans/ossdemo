@@ -52,4 +52,8 @@ public class AddressUtils
         }
         return address;
     }
+    public static void testfunc()
+    {
+        return;
+    }
 }
